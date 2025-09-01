@@ -1,6 +1,8 @@
 ros2_examples_ws/
 ros2_tutorials_ws/log/
-ros2_tutorials_ws/src/ros_tutorials/
 **/*turtle*
 **/*install*
 **/*build*
+ros2_tutorials_ws/src/py_pubsub/
+ros2_tutorials_ws/src/ros_tutorials/
+ros2_tutorials_ws/src/pkg_tutorial/
